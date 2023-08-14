@@ -23,3 +23,5 @@ You can view each (verified) contract at the deployed addresses listed below:
 | ERC721Facet | [0x2C2785FeC75248ba57F19b1927e9Fa90f50b9991](https://etherscan.io/address/0x2C2785FeC75248ba57F19b1927e9Fa90f50b9991) |
 | MintFacet | [0x1FE1FbB791FA3015C5D3F8693dA12d93AE2C0BAE](https://etherscan.io/address/0x1FE1FbB791FA3015C5D3F8693dA12d93AE2C0BAE) |
 | UpdatableOperatorFiltererFacet | [0x82620239185a7a51Fea5A8958dfacb30B7aE5457](https://etherscan.io/address/0x82620239185a7a51Fea5A8958dfacb30B7aE5457) |
+
+Initialization contract: [0x9A4dEf5ceB666891d179fE0D052a76c3607e84b6](https://etherscan.io/address/0x9A4dEf5ceB666891d179fE0D052a76c3607e84b6)
