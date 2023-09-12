@@ -19,7 +19,7 @@ You can view each (verified) contract at the deployed addresses listed below:
 | AccessControlFacet | [0x018697963ecBc3Bb2BF021529D172C54befb0e41](https://etherscan.io/address/0x018697963ecBc3Bb2BF021529D172C54befb0e41) |
 | AppStorageFacet | [0x24417C2CcA13cEfad366f2363A102db4f7BceCbE](https://etherscan.io/address/0x24417C2CcA13cEfad366f2363A102db4f7BceCbE) |
 | SeedFacet | [0x0592451BCD76Da1Cf8b52E1b8C41C00d77d93A6a](https://etherscan.io/address/0x0592451BCD76Da1Cf8b52E1b8C41C00d77d93A6a) |
-| RenderMetadataFacet | [0x80a3507287F99853480963a3bef147d46E39554C](https://etherscan.io/address/0x80a3507287F99853480963a3bef147d46E39554C) |
+| OffChainMetadataFacet | [0xdeFD287633ac14768A0CA2BF66A8740680B69Cde](https://etherscan.io/address/0xdeFD287633ac14768A0CA2BF66A8740680B69Cde) |
 | ERC721Facet | [0x2C2785FeC75248ba57F19b1927e9Fa90f50b9991](https://etherscan.io/address/0x2C2785FeC75248ba57F19b1927e9Fa90f50b9991) |
 | MintFacet | [0x1FE1FbB791FA3015C5D3F8693dA12d93AE2C0BAE](https://etherscan.io/address/0x1FE1FbB791FA3015C5D3F8693dA12d93AE2C0BAE) |
 | UpdatableOperatorFiltererFacet | [0x82620239185a7a51Fea5A8958dfacb30B7aE5457](https://etherscan.io/address/0x82620239185a7a51Fea5A8958dfacb30B7aE5457) |
